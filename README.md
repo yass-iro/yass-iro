@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Yasser
+# 👋 Hi, I'm Yassiro
 
+💻 Full Stack Developer based in Morocco 🇲🇦  
+
+I build clean, modern web applications with smooth animations and a strong focus on simplicity and performance.  
+I enjoy turning ideas into responsive, user-friendly digital experiences.
 
 ## 🔥 Skills
 
